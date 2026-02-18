@@ -49,5 +49,4 @@ Here are some of the optimized solutions currently in the repo:
 > *Note: This table is continuously updated as I refine, document, and upload my 38+ solutions.*
 
 ## 📈 Status
-![Progress](https://progress-bar.dev/6/?scale=75&title=LeetCode%2075&width=500&color=brightgreen&suffix=+)
 *(Currently working through the "LeetCode 75" list and deep-diving into fundamental patterns)*
