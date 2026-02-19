@@ -76,6 +76,7 @@ leetcode-journey/
 | 696 | **Count Binary Substrings** | O(n) / O(1) | [Python](./solutions/easy/0696-count-binary-substrings.py) |
 | 1071 | **Greatest Common Divisor of Strings** | O(n + m) / O(n + m) | [Python](./solutions/easy/1071-greatest-common-divisor-of-strings.py) |
 | 1365 | **How Many Numbers Are Smaller Than the Current Number** | O(nlog(n) / O(n) | [Python](./solutions/easy/1365-smaller-than-current.py) |
+| 1389 | **Create Target Array in the Given Order** | O(n^2) / O(n) | [Python](./solutions/easy/1389-create-target-array-in-given-order.py) |
 | 1431 | **Kids With the Greatest Number of Candies** | O(n) / O(n) | [Python](./solutions/easy/1431-kids-with-candies.py) |
 | 1470 | **Shuffle the Array** | O(n) / O(n) | [Python](./solutions/easy/1470-shuffle-the-array.py) |
 | 1512 | **Number of Good Pairs** | O(n^2) / O(1) | [Python](./solutions/easy/1512-number-of-good-pairs.py) |
