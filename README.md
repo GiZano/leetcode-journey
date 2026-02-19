@@ -49,6 +49,7 @@ leetcode-journey/
 | 1071 | **Greatest Common Divisor of Strings** | O(n + m) / O(n + m) | [Python](./solutions/easy/1071-greatest-common-divisor-of-strings.py) |
 | 1431 | **Kids With the Greatest Number of Candies** | O(n) / O(n) | [Python](./solutions/easy/1431-kids-with-candies.py) |
 | 1786 | **Merge Strings Alternately** | O(n + m) / O(n + m) | [Python](./solutions/easy/1768-merge-strings-alternately.py) |
+| 1929 | **Concatenation of Array** | O(n) / O(n) | [Python](./solutions/easy/1929-concatenation-of-array.py) |
 <!-- TABLE_END -->
 > *Note: This table is updated automatically.*
 
