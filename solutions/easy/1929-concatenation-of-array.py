@@ -16,7 +16,4 @@ Complexity:
 
 class Solution:
     def getConcatenation(self, nums: list[int]) -> list[int]:
-        num=[]
-        for i in nums:
-            num.append(i)
-        return num+nums
+        return nums + nums
