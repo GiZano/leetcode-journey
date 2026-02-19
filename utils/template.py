@@ -1,5 +1,6 @@
 """
 Problem: [Number] [Title]
+Category: Hash Map / Greedy / Bit Manipulation / Strings / Math / Arrays / Two Pointers
 
 Description: [Explain the problem]
 
