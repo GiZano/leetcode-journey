@@ -31,4 +31,4 @@ jobs:
           git add README.md
           # Committa solo se ci sono effettivamente cambiamenti
           git diff --quiet && git diff --staged --quiet || git commit -m "docs: auto-update README table [skip ci]"
-          git push
+          git push origin master
