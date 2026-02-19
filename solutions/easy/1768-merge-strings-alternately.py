@@ -1,5 +1,6 @@
 """
-Problem: 1786 Merge Strings Alternately
+Problem: 1786. Merge Strings Alternately
+Category: Two Pointers
 
 Description: Given two strings (word1, word2), merge them alternatively until one ends, and add the rest of the other string at the end.
 

@@ -1,5 +1,6 @@
 """
-Problem: 0605 Can Place Flowers
+Problem: 605. Can Place Flowers
+Category: Greedy
 
 Description: Check if it's possible to place 'n' flowers in a flowerbed, counting all space without flowers nearby
 

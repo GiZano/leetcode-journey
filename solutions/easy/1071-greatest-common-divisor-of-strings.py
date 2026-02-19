@@ -1,5 +1,6 @@
 """
-Problem: 1071 Greatest Common Divisor of Strings
+Problem: 1071. Greatest Common Divisor of Strings
+Category: Math / Strings
 
 Description: find the greatest common divisor of two given strings (str1, str2)
 

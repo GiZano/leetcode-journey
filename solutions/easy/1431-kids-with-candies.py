@@ -1,5 +1,6 @@
 """
-Problem: 1431 Kids With the Greatest Number of Candies
+Problem: 1431. Kids With the Greatest Number of Candies
+Category: Arrays
 
 Description: check which kids would have the greatest number of candies if given a determined quantity of candies (extraCandies)
 

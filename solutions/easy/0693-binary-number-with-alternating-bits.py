@@ -1,5 +1,6 @@
 """
-Problem: 0693 Binary Number With Alternating Bits
+Problem: 693. Binary Number With Alternating Bits
+Category: Bit Manipulation
 
 Description: Check if a number binary version is formed by only alternating bits (i.e. '101', '010')
 
