@@ -83,6 +83,7 @@ leetcode-journey/
 | 1920 | **Build Array from Permutation** | O(n) / O(n) | [Python](./solutions/easy/1920-build-array-from-permutation.py) |
 | 1929 | **Concatenation of Array** | O(n) / O(n) | [Python](./solutions/easy/1929-concatenation-of-array.py) |
 | 2011 | **Final Value of Variable After Performing Operations** | O(n) / O(1) | [Python](./solutions/easy/2011-final-value-after-operations.py) |
+| 2114 | **Maximum Number of Words Found in Sentences** | O(n * m) / O(m) | [Python](./solutions/easy/2114-maximum-number-of-words-in-sentences.py) |
 | 2798 | **Number of Employees Who Met the Target** | O(n) / O(1) | [Python](./solutions/easy/2798-employees-who-met-the-target.py) |
 | 2824 | **Count Pairs Whose Sum is Less than Target** | O(nlog(n) / O(1) | [Python](./solutions/easy/2824-pairs-less-than-target.py) |
 | 2859 | **Sum of Values at Indices With K Set Bits** | O(n) / O(1) | [Python](./solutions/easy/2859-sum-values-at-indices-with-k-set-bits.py) |
