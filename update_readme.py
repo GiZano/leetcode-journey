@@ -47,8 +47,8 @@ def generate_table():
 
 def update_readme():
     readme_path = "README.md"
-    start_marker = ""
-    end_marker = ""
+    start_marker = "<!-- TABLE_START -->"
+    end_marker = "<!-- TABLE_END -->"
 
     if not os.path.exists(readme_path):
         print("Error: README.md not found.")

@@ -35,7 +35,8 @@ leetcode-journey/
 ```
 
 ## 📚 Featured Solutions
-
+<!-- TABLE_START -->
+<!-- TABLE_END -->
 > *Note: This table is updated automatically.*
 
 ## 📈 Status
