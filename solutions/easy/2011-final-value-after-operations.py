@@ -2,18 +2,18 @@
 Problem: 2011. Final Value of Variable After Performing Operations
 Category: Arrays / Strings
 
-Description: [Explain the problem]
+Description: Starting from 0, add 1 whenever there is X++ or ++X in the list, remove 1 whenever there is X-- or --X
 
 Algorithm:
 
-- [Point 1]
-- [Point 2]
-...
-- [Point n]
+- Iterate over every item in the list
+    - Check only the second char, as it always contains the operation symbol
+    - Add or remove 1 accordingly
+
 
 Complexity:
-- Time: O(...)
-- Space: O(...)
+- Time: O(n)    # iteration over the whole list
+- Space: O(1)   # using only one variable
 
 """
 
