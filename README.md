@@ -33,20 +33,11 @@ leetcode-journey/
 └── utils/                   # Helper classes (e.g., template.py)
 ```
 
-## 📚 Featured Solutions
+## 📚 Solutions
 
-Here are some of the optimized solutions currently in the repo:
-
-| # | Title | Difficulty | Category | Complexity (Time / Space) | Solution |
-|---|-------|------------|----------|---------------------------|----------|
-| 1768 | **Merge Strings Alternately** | Easy | Strings | O(n) / O(n) | [Link](./solutions/easy/1768-merge-strings-alternately.py) |
-| 1071 | **GCD of Strings** | Easy | Math/Strings | O(n) / O(n) | [Link](./solutions/easy/1071-greatest-common-divisor-of-strings.py) |
-| 1431 | **Kids With Candies** | Easy | Array | O(n) / O(n) | [Link](./solutions/easy/1431-kids-with-candies.py) |
-| 0605 | **Can Place Flowers** | Easy | Greedy | O(n) / O(n) | [Link](./solutions/easy/0605-can-place-flowers.py) |
-| 0693 | **Binary Number with Alternating Bits** | Easy | Bit Manipulation | O(1) / O(1) | [Link](./solutions/easy/0693-binary-number-with-alternating-bits.py) |
-
-
-> *Note: This table is continuously updated as I refine, document, and upload my 38+ solutions.*
+> *Notes: 
+> - Table automatically updated by GitHub Pages.
+> - This table is continuously updated as I refine, document, and upload my solutions.*
 
 ## 📈 Status
 *(Currently working through the "LeetCode 75" list and deep-diving into fundamental patterns)*
