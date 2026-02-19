@@ -48,6 +48,7 @@ leetcode-journey/
 | 696 | **Count Binary Substrings** | O(n) / O(1) | [Python](./solutions/easy/0696-count-binary-substrings.py) |
 | 1071 | **Greatest Common Divisor of Strings** | O(n + m) / O(n + m) | [Python](./solutions/easy/1071-greatest-common-divisor-of-strings.py) |
 | 1431 | **Kids With the Greatest Number of Candies** | O(n) / O(n) | [Python](./solutions/easy/1431-kids-with-candies.py) |
+| 1470 | **Shuffle the Array** | O(n) / O(n) | [Python](./solutions/easy/1470-shuffle-the-array.py) |
 | 1786 | **Merge Strings Alternately** | O(n + m) / O(n + m) | [Python](./solutions/easy/1768-merge-strings-alternately.py) |
 | 1929 | **Concatenation of Array** | O(n) / O(n) | [Python](./solutions/easy/1929-concatenation-of-array.py) |
 | 2011 | **Final Value of Variable After Performing Operations** | O(n) / O(1) | [Python](./solutions/easy/2011-final-value-after-operations.py) |
