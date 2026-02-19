@@ -1,43 +1,64 @@
 # 🚀 LeetCode Journey
-
+| # | Title | Complexity (Time / Space) | Code |
+|---|-------|---------------------------|------|
 Welcome to my personal collection of **LeetCode** solutions.
-This repository is not just a code archive, but a journal of my journey to master algorithms, data structures, and software development best practices (Fullstack & IoT).
+| # | Title | Complexity (Time / Space) | Code |
+|---|-------|---------------------------|------|
 
-## 🎯 Goals
+| # | Title | Complexity (Time / Space) | Code |
+|---|-------|---------------------------|------|
 The main goal is not just "passing the tests," but writing code that is:
-- **Efficient:** Strong focus on Time Complexity and Space Complexity analysis.
+| # | Title | Complexity (Time / Space) | Code |
+|---|-------|---------------------------|------|
 - **Readable:** Clean, "Pythonic," and well-commented code.
-- **Robust:** Proper handling of edge cases and memory safety.
+| # | Title | Complexity (Time / Space) | Code |
+|---|-------|---------------------------|------|
 
-## 🛠️ Tech & Tools
+| # | Title | Complexity (Time / Space) | Code |
+|---|-------|---------------------------|------|
 - **Language:** Python 3.x
-- **Key Concepts:** Two Pointers, Sliding Window, Greedy Algorithms, Bit Manipulation.
+| # | Title | Complexity (Time / Space) | Code |
+|---|-------|---------------------------|------|
 - **Documentation:** Every file includes a docstring with a step-by-step algorithm explanation and Big O analysis.
-
+| # | Title | Complexity (Time / Space) | Code |
+|---|-------|---------------------------|------|
 ## 📂 Repository Structure
-
+| # | Title | Complexity (Time / Space) | Code |
+|---|-------|---------------------------|------|
 ```text
-leetcode-journey/
+| # | Title | Complexity (Time / Space) | Code |
+|---|-------|---------------------------|------|
 │
-├── solutions/               # Source code organized by difficulty
+| # | Title | Complexity (Time / Space) | Code |
+|---|-------|---------------------------|------|
 │   ├── easy/
-│   │   ├── 0605-can-place-flowers.py
+| # | Title | Complexity (Time / Space) | Code |
+|---|-------|---------------------------|------|
 │   │   ├── 0693-binary-number-with-alternating-bits.py
-│   │   ├── 1071-greatest-common-divisor-of-strings.py
+| # | Title | Complexity (Time / Space) | Code |
+|---|-------|---------------------------|------|
 │   │   ├── 1431-kids-with-candies.py
-│   │   ├── 1768-merge-strings-alternately.py
+| # | Title | Complexity (Time / Space) | Code |
+|---|-------|---------------------------|------|
 │   │   └── ...
-│   ├── medium/
+| # | Title | Complexity (Time / Space) | Code |
+|---|-------|---------------------------|------|
 │   └── hard/
-│
+| # | Title | Complexity (Time / Space) | Code |
+|---|-------|---------------------------|------|
 └── utils/                   # Helper classes (e.g., template.py)
-```
+| # | Title | Complexity (Time / Space) | Code |
+|---|-------|---------------------------|------|
 
-## 📚 Solutions
+| # | Title | Complexity (Time / Space) | Code |
+|---|-------|---------------------------|------|
 
-> *Notes: 
+| # | Title | Complexity (Time / Space) | Code |
+|---|-------|---------------------------|------|
 > - Table automatically updated by GitHub Pages.
-> - This table is continuously updated as I refine, document, and upload my solutions.*
+| # | Title | Complexity (Time / Space) | Code |
+|---|-------|---------------------------|------|
 
-## 📈 Status
+| # | Title | Complexity (Time / Space) | Code |
+|---|-------|---------------------------|------|
 *(Currently working through the "LeetCode 75" list and deep-diving into fundamental patterns)*
