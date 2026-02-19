@@ -85,6 +85,7 @@ leetcode-journey/
 | 2011 | **Final Value of Variable After Performing Operations** | O(n) / O(1) | [Python](./solutions/easy/2011-final-value-after-operations.py) |
 | 2798 | **Number of Employees Who Met the Target** | O(n) / O(1) | [Python](./solutions/easy/2798-employees-who-met-the-target.py) |
 | 2824 | **Count Pairs Whose Sum is Less than Target** | O(nlog(n) / O(1) | [Python](./solutions/easy/2824-pairs-less-than-target.py) |
+| 2859 | **Sum of Values at Indices With K Set Bits** | O(n) / O(1) | [Python](./solutions/easy/2859-sum-values-at-indices-with-k-set-bits.py) |
 <!-- TABLE_END -->
 > *Note: This table is updated automatically upon every push via GitHub Actions.*
 
