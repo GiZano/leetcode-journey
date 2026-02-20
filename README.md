@@ -97,7 +97,7 @@ leetcode-journey/
 ### 🟡 Medium
 
 <!-- MEDIUM_TABLE_START -->
-*Nessun problema risolto in questa categoria per ora.*
+*No problem solved in this category yet.*
 <!-- MEDIUM_TABLE_END -->
 
 ### 🔴 Hard
