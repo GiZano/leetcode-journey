@@ -56,7 +56,7 @@ def generate_tables():
     tables = {}
     for diff in problems.keys():
         if not problems[diff]:
-            tables[diff] = "*Nessun problema risolto in questa categoria per ora.*"
+            tables[diff] = "*No problem solved in this category yet.*"
             continue
             
         # Sort numerically by problem ID
