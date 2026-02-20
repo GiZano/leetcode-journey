@@ -90,7 +90,7 @@ leetcode-journey/
 | 2798 | **Number of Employees Who Met the Target** | O(n) / O(1) | [Python](./solutions/easy/2798-employees-who-met-the-target.py) |
 | 2824 | **Count Pairs Whose Sum is Less than Target** | O(nlog(n) / O(1) | [Python](./solutions/easy/2824-pairs-less-than-target.py) |
 | 2859 | **Sum of Values at Indices With K Set Bits** | O(n) / O(1) | [Python](./solutions/easy/2859-sum-values-at-indices-with-k-set-bits.py) |
-| 761 | **Special Binary String** | O(n^2) / O(n) | [Python](./solutions/hard/761-special-binary-string.py) |
+| 761 | **Special Binary String** | O(n^2) / O(n) | [Python](./solutions/hard/0761-special-binary-string.py) |
 <!-- TABLE_END -->
 > *Note: This table is updated automatically upon every push via GitHub Actions.*
 
