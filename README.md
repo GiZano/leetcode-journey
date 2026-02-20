@@ -70,16 +70,19 @@ leetcode-journey/
 ### 🟢 Easy
 
 <!-- EASY_TABLE_START -->
+
 <!-- EASY_TABLE_END -->
 
 ### 🟡 Medium
 
 <!-- MEDIUM_TABLE_START -->
+
 <!-- MEDIUM_TABLE_END -->
 
 ### 🔴 Hard
 
 <!-- HARD_TABLE_START -->
+
 <!-- HARD_TABLE_END -->
 
 > *Note: This table is updated automatically upon every push via GitHub Actions.*
