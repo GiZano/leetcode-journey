@@ -94,7 +94,7 @@ def update_readme():
         if start_marker in content and end_marker in content:
             # Regex to replace everything between the start and end markers
             pattern = re.compile(rf"({start_marker}).*?({end_marker})", re.DOTALL)
-            content = pattern.sub(rf"\1\n{tables.get(diff, '')}\n\2", content)
+            content = pattern.sub(rf"\1\n{tables.get(diff.lower(), '')}\n\2", content)
             print(f"Table for {diff.upper()} updated successfully!")
         else:
             print(f"Warning: Markers {start_marker} / {end_marker} not found in README.md.")
