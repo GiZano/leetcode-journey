@@ -67,7 +67,9 @@ leetcode-journey/
 ## 📚 Solutions Catalog
 
 *(Currently working through the "LeetCode 75" list and deep-diving into fundamental patterns)*
-<!-- TABLE_START -->
+### 🟢 Easy
+
+<!-- EASY_TABLE_START -->
 | # | Title | Complexity (Time / Space) | Code |
 |---|-------|---------------------------|------|
 | 1 | **Two Sum** | O(n) / O(n) | [Python](./solutions/easy/0001-two-sum.py) |
@@ -76,6 +78,7 @@ leetcode-journey/
 | 696 | **Count Binary Substrings** | O(n) / O(1) | [Python](./solutions/easy/0696-count-binary-substrings.py) |
 | 1071 | **Greatest Common Divisor of Strings** | O(n + m) / O(n + m) | [Python](./solutions/easy/1071-greatest-common-divisor-of-strings.py) |
 | 1365 | **How Many Numbers Are Smaller Than the Current Number** | O(nlog(n) / O(n) | [Python](./solutions/easy/1365-smaller-than-current.py) |
+| 1389 | **Create Target Array in the Given Order** | O(n^2) / O(n) | [Python](./solutions/easy/1389-create-target-array-in-given-order.py) |
 | 1431 | **Kids With the Greatest Number of Candies** | O(n) / O(n) | [Python](./solutions/easy/1431-kids-with-candies.py) |
 | 1470 | **Shuffle the Array** | O(n) / O(n) | [Python](./solutions/easy/1470-shuffle-the-array.py) |
 | 1512 | **Number of Good Pairs** | O(n^2) / O(1) | [Python](./solutions/easy/1512-number-of-good-pairs.py) |
@@ -89,7 +92,22 @@ leetcode-journey/
 | 2798 | **Number of Employees Who Met the Target** | O(n) / O(1) | [Python](./solutions/easy/2798-employees-who-met-the-target.py) |
 | 2824 | **Count Pairs Whose Sum is Less than Target** | O(nlog(n) / O(1) | [Python](./solutions/easy/2824-pairs-less-than-target.py) |
 | 2859 | **Sum of Values at Indices With K Set Bits** | O(n) / O(1) | [Python](./solutions/easy/2859-sum-values-at-indices-with-k-set-bits.py) |
-<!-- TABLE_END -->
+<!-- EASY_TABLE_END -->
+
+### 🟡 Medium
+
+<!-- MEDIUM_TABLE_START -->
+*No problem solved in this category yet.*
+<!-- MEDIUM_TABLE_END -->
+
+### 🔴 Hard
+
+<!-- HARD_TABLE_START -->
+| # | Title | Complexity (Time / Space) | Code |
+|---|-------|---------------------------|------|
+| 761 | **Special Binary String** | O(n^2) / O(n) | [Python](./solutions/hard/0761-special-binary-string.py) |
+<!-- HARD_TABLE_END -->
+
 > *Note: This table is updated automatically upon every push via GitHub Actions.*
 
 <br><br>
