@@ -76,6 +76,7 @@ leetcode-journey/
 | 605 | **Can Place Flowers** | O(n) / O(n) | [Python](./solutions/easy/0605-can-place-flowers.py) |
 | 693 | **Binary Number With Alternating Bits** | O(1) / O(n) | [Python](./solutions/easy/0693-binary-number-with-alternating-bits.py) |
 | 696 | **Count Binary Substrings** | O(n) / O(1) | [Python](./solutions/easy/0696-count-binary-substrings.py) |
+| 762 | **Prime Number of Set Bits in Binary Representation** | O(n) / O(1) | [Python](./solutions/easy/0762-primary-number-of-bits-in-binary.py) |
 | 1071 | **Greatest Common Divisor of Strings** | O(n + m) / O(n + m) | [Python](./solutions/easy/1071-greatest-common-divisor-of-strings.py) |
 | 1365 | **How Many Numbers Are Smaller Than the Current Number** | O(nlog(n) / O(n) | [Python](./solutions/easy/1365-smaller-than-current.py) |
 | 1389 | **Create Target Array in the Given Order** | O(n^2) / O(n) | [Python](./solutions/easy/1389-create-target-array-in-given-order.py) |
