@@ -99,7 +99,9 @@ leetcode-journey/
 ### 🟡 Medium
 
 <!-- MEDIUM_TABLE_START -->
-*No problem solved in this category yet.*
+| # | Title | Complexity (Time / Space) | Code |
+|---|-------|---------------------------|------|
+| 1461 | **Check If a String Contains All Binary Codes of Size K** | O(n * k) / O(2^k * k) | [Python](./solutions/medium/1461-if-strings-contains-all-binary-codes-k-sized.py) |
 <!-- MEDIUM_TABLE_END -->
 
 ### 🔴 Hard
