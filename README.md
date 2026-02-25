@@ -81,6 +81,7 @@ leetcode-journey/
 | 868 | **Binary Gap** | O(log n) / O(log n) | [Python](./solutions/easy/0868-binary-gap.py) |
 | 1022 | **Sum of Root To Leaf Binary Numbers** | O(n) / O(h) | [Python](./solutions/easy/1022-sum-of-root-to-leaft-binary-numbers.py) |
 | 1071 | **Greatest Common Divisor of Strings** | O(n + m) / O(n + m) | [Python](./solutions/easy/1071-greatest-common-divisor-of-strings.py) |
+| 1356 | **Sort Integers by The Number of 1 Bits** | O(n) / O(n) | [Python](./solutions/easy/1356-sort-numbers-by-number-of-1-bits.py) |
 | 1365 | **How Many Numbers Are Smaller Than the Current Number** | O(nlog(n) / O(n) | [Python](./solutions/easy/1365-smaller-than-current.py) |
 | 1389 | **Create Target Array in the Given Order** | O(n^2) / O(n) | [Python](./solutions/easy/1389-create-target-array-in-given-order.py) |
 | 1431 | **Kids With the Greatest Number of Candies** | O(n) / O(n) | [Python](./solutions/easy/1431-kids-with-candies.py) |
