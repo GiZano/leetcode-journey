@@ -73,6 +73,7 @@ leetcode-journey/
 | # | Title | Complexity (Time / Space) | Code |
 |---|-------|---------------------------|------|
 | 1 | **Two Sum** | O(n) / O(n) | [Python](./solutions/easy/0001-two-sum.py) |
+| 345 | **Reverse Vowels of a String** | O(n) / O(n) | [Python](./solutions/easy/0345-reverse-vowels-of-a-string.py) |
 | 605 | **Can Place Flowers** | O(n) / O(n) | [Python](./solutions/easy/0605-can-place-flowers.py) |
 | 693 | **Binary Number With Alternating Bits** | O(1) / O(n) | [Python](./solutions/easy/0693-binary-number-with-alternating-bits.py) |
 | 696 | **Count Binary Substrings** | O(n) / O(1) | [Python](./solutions/easy/0696-count-binary-substrings.py) |
