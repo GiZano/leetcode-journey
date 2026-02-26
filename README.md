@@ -104,6 +104,7 @@ leetcode-journey/
 <!-- MEDIUM_TABLE_START -->
 | # | Title | Complexity (Time / Space) | Code |
 |---|-------|---------------------------|------|
+| 1404 | **Number of Steps to Reduce a Number in Binary Representation to One** | O(n^2) / O(n) | [Python](./solutions/medium/1404-reduce-bin-number-to-one.py) |
 | 1461 | **Check If a String Contains All Binary Codes of Size K** | O(n * k) / O(2^k * k) | [Python](./solutions/medium/1461-if-strings-contains-all-binary-codes-k-sized.py) |
 <!-- MEDIUM_TABLE_END -->
 
