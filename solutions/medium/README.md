@@ -8,6 +8,7 @@ These require combining multiple data structures, recognizing patterns (like Two
 <!-- TABLE_START -->
 | # | Title | Complexity (Time / Space) | Code |
 |---|-------|---------------------------|------|
+| 11 | **Container With Most Water** | O(n) / O(1) | [Python](./0011-container-with-most-water.py) |
 | 151 | **Reverse Words in a String** | O(n) / O(n) | [Python](./0151-reverse-words-in-a-string.py) |
 | 238 | **Product of Array Except Self** | O(n) / O(1) | [Python](./0238-product-of-array-except-self.py) |
 | 334 | **Increasing Triplet Subsequence** | O(n) / O(1) | [Python](./0344-increasing-triplet-sequence.py) |

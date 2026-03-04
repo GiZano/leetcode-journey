@@ -38,9 +38,9 @@ The main goal is not just "passing the tests," but writing code that is:
 | Difficulty | Solved | View Solutions |
 | :---: | :---: | :--- |
 | 🟢 **Easy** | 27 | [📁 Browse Easy](./solutions/easy/README.md) |
-| 🟡 **Medium** | 9 | [📁 Browse Medium](./solutions/medium/README.md) |
+| 🟡 **Medium** | 10 | [📁 Browse Medium](./solutions/medium/README.md) |
 | 🔴 **Hard** | 1 | [📁 Browse Hard](./solutions/hard/README.md) |
-| 🏆 **Total** | **37** | |
+| 🏆 **Total** | **38** | |
 <!-- STATS_END -->
 
 ---
