@@ -11,7 +11,9 @@ Focus here is usually on basic data structures, fundamental logic, and getting c
 | 1 | **Two Sum** | O(n) / O(n) | [Python](./0001-two-sum.py) |
 | 283 | **Move Zeroes** | O(N) / O(1) | [Python](./0283-move-zeroes.py) |
 | 345 | **Reverse Vowels of a String** | O(n) / O(n) | [Python](./0345-reverse-vowels-of-a-string.py) |
+| 392 | **Is Subsequence** | O(n) / O(1) | [Python](./0392-is-subsequence.py) |
 | 605 | **Can Place Flowers** | O(n) / O(n) | [Python](./0605-can-place-flowers.py) |
+| 643 | **Maximum Average Subarray I** | O(n) / O(1) | [Python](./0643-maximum-average-subarray-I.py) |
 | 693 | **Binary Number With Alternating Bits** | O(1) / O(n) | [Python](./0693-binary-number-with-alternating-bits.py) |
 | 696 | **Count Binary Substrings** | O(n) / O(1) | [Python](./0696-count-binary-substrings.py) |
 | 762 | **Prime Number of Set Bits in Binary Representation** | O(n) / O(1) | [Python](./0762-primary-number-of-bits-in-binary.py) |
