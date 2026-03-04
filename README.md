@@ -88,6 +88,7 @@ leetcode-journey/
 | 1431 | **Kids With the Greatest Number of Candies** | O(n) / O(n) | [Python](./solutions/easy/1431-kids-with-candies.py) |
 | 1470 | **Shuffle the Array** | O(n) / O(n) | [Python](./solutions/easy/1470-shuffle-the-array.py) |
 | 1512 | **Number of Good Pairs** | O(n^2) / O(1) | [Python](./solutions/easy/1512-number-of-good-pairs.py) |
+| 1582 | **Special Positions in a Binary Matrix** | O(N*M) / O(N+M) | [Python](./solutions/easy/1582-specials-positions-in-binary-matrix.py) |
 | 1720 | **Decode XORed Array** | O(n) / O(n) | [Python](./solutions/easy/1720-decode-xored-array.py) |
 | 1786 | **Merge Strings Alternately** | O(n + m) / O(n + m) | [Python](./solutions/easy/1768-merge-strings-alternately.py) |
 | 1920 | **Build Array from Permutation** | O(n) / O(n) | [Python](./solutions/easy/1920-build-array-from-permutation.py) |
