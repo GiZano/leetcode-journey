@@ -73,7 +73,7 @@ leetcode-journey/
 │   └── hard/
 │       ├── README.md        # 🔴 Auto-generated Hard table
 │       └── ...
-├── scripts/                 # Automation scripts
+├── update_readme.py         # Automation scripts
 └── README.md                # Automatically updated index & stats
 ```
 
