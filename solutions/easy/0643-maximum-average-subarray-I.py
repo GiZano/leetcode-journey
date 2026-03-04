@@ -11,7 +11,7 @@ Algorithm:
 - Iterate over each value starting from the right of the first window
 - Calculate the new sum by adding the new value and removing the value in position [i - k]
 - Keep the max total
-- Return the max total devided by k 
+- Return the max total divided by k 
 
 Complexity:
 - Time: O(n)    # Iterate over the list once
