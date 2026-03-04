@@ -37,10 +37,10 @@ The main goal is not just "passing the tests," but writing code that is:
 <!-- STATS_START -->
 | Difficulty | Solved | View Solutions |
 | :---: | :---: | :--- |
-| 🟢 **Easy** | 0 | [📁 Browse Easy](./solutions/easy/README.md) |
-| 🟡 **Medium** | 0 | [📁 Browse Medium](./solutions/medium/README.md) |
-| 🔴 **Hard** | 0 | [📁 Browse Hard](./solutions/hard/README.md) |
-| 🏆 **Total** | **0** | |
+| 🟢 **Easy** | 27 | [📁 Browse Easy](./solutions/easy/README.md) |
+| 🟡 **Medium** | 9 | [📁 Browse Medium](./solutions/medium/README.md) |
+| 🔴 **Hard** | 1 | [📁 Browse Hard](./solutions/hard/README.md) |
+| 🏆 **Total** | **37** | |
 <!-- STATS_END -->
 
 ---
