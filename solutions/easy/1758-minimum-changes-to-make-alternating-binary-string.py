@@ -9,7 +9,7 @@ Description: You are given a string s consisting only of the characters '0' and 
 
 Algorithm:
 
-- Count whenever the string doesn't corrispond to the alternated '01010..'
+- Count whenever the string doesn't correspond to the alternated '01010..'
 - Len(s) - count represents the same count but for the string '10101...'
 - Return the minimum between the two counts.
 
