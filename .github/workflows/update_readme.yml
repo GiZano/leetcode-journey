@@ -1,11 +1,11 @@
-name: Update README Table
+name: Update README Tables and Stats
 
 on:
   push:
     branches:
       - master
     paths:
-      - 'solutions/**'
+      - 'solutions/**.py' # L'azione scatta solo se aggiungi/modifichi file Python
   workflow_dispatch:
 
 jobs:
@@ -28,7 +28,13 @@ jobs:
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          
+          # Tracciamo il README principale e i nuovi README nelle sotto-cartelle
           git add README.md
+          git add solutions/easy/README.md
+          git add solutions/medium/README.md
+          git add solutions/hard/README.md
+          
           # Committa solo se ci sono effettivamente cambiamenti
-          git diff --quiet && git diff --staged --quiet || git commit -m "docs: auto-update README table [skip ci]"
+          git diff --quiet && git diff --staged --quiet || git commit -m "docs: auto-update stats and sub-folder tables [skip ci]"
           git push origin master
