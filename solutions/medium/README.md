@@ -14,6 +14,7 @@ These require combining multiple data structures, recognizing patterns (like Two
 | 334 | **Increasing Triplet Subsequence** | O(n) / O(1) | [Python](./0344-increasing-triplet-sequence.py) |
 | 443 | **String Compression** | O(n) / O(1) | [Python](./0433-string-compression.py) |
 | 1404 | **Number of Steps to Reduce a Number in Binary Representation to One** | O(n^2) / O(n) | [Python](./1404-reduce-bin-number-to-one.py) |
+| 1456 | **Maximum Number of Vowels in a Substring of Given Length** | O(n) / O(1) | [Python](./1456-max-vowerls-in-substring-of-given-len.py) |
 | 1461 | **Check If a String Contains All Binary Codes of Size K** | O(n * k) / O(2^k * k) | [Python](./1461-if-strings-contains-all-binary-codes-k-sized.py) |
 | 1536 | **Minimum Swaps to Arrange a Binary Grid** | O(n^2) / O(n) | [Python](./1536-minimum-swaps-to-arrange-binary-grid.py) |
 | 1545 | **Find Kth Bit in Nth Binary String** | O(2^n) / O(2^n) | [Python](./1545-find-kth-bit-in-nth-string.py) |
