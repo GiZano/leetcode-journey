@@ -28,6 +28,7 @@ Focus here is usually on basic data structures, fundamental logic, and getting c
 | 1512 | **Number of Good Pairs** | O(n^2) / O(1) | [Python](./1512-number-of-good-pairs.py) |
 | 1582 | **Special Positions in a Binary Matrix** | O(N*M) / O(N+M) | [Python](./1582-specials-positions-in-binary-matrix.py) |
 | 1720 | **Decode XORed Array** | O(n) / O(n) | [Python](./1720-decode-xored-array.py) |
+| 1758 | **Minimum Changes To Make Alternating Binary String** | O(N) / O(1) | [Python](./1758-minimum-changes-to-make-alternating-binary-string.py) |
 | 1786 | **Merge Strings Alternately** | O(n + m) / O(n + m) | [Python](./1768-merge-strings-alternately.py) |
 | 1920 | **Build Array from Permutation** | O(n) / O(n) | [Python](./1920-build-array-from-permutation.py) |
 | 1929 | **Concatenation of Array** | O(n) / O(n) | [Python](./1929-concatenation-of-array.py) |
