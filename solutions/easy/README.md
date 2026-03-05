@@ -38,6 +38,7 @@ Focus here is usually on basic data structures, fundamental logic, and getting c
 | 2798 | **Number of Employees Who Met the Target** | O(n) / O(1) | [Python](./2798-employees-who-met-the-target.py) |
 | 2824 | **Count Pairs Whose Sum is Less than Target** | O(nlog(n) / O(1) | [Python](./2824-pairs-less-than-target.py) |
 | 2859 | **Sum of Values at Indices With K Set Bits** | O(n) / O(1) | [Python](./2859-sum-values-at-indices-with-k-set-bits.py) |
+| 3856 | **Trim Trailing Vowels** | O(N) / O(1) | [Python](./3856-trim-trailing-vowels.py) |
 <!-- TABLE_END -->
 
 <br>
