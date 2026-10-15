@@ -5,7 +5,8 @@ on:
     branches:
       - master
     paths:
-      - 'solutions/**.py' # L'azione scatta solo se aggiungi/modifichi file Python
+      - 'solutions/**'
+      - 'update_readme.py'
   workflow_dispatch:
 
 jobs:

@@ -6,9 +6,9 @@ Expect heavy dynamic programming, complex graphs, and advanced algorithmic think
 <br>
 
 <!-- TABLE_START -->
-| # | Title | Complexity (Time / Space) | Code |
-|---|-------|---------------------------|------|
-| 761 | **Special Binary String** | O(n^2) / O(n) | [Python](./0761-special-binary-string.py) |
+| # | Title | Complexity (Time / Space) | Solutions |
+|---|-------|---------------------------|-----------|
+| 761 | **Special Binary String** | O(n^2) / O(n) | [🐍 Python](./0761-special-binary-string.py) |
 <!-- TABLE_END -->
 
 <br>
