@@ -19,7 +19,7 @@ Focus here is usually on basic data structures, fundamental logic, and getting c
 | 762 | **Prime Number of Set Bits in Binary Representation** | O(n) / O(1) | [🐍 Python](./0762-primary-number-of-bits-in-binary.py) |
 | 868 | **Binary Gap** | O(log n) / O(log n) | [🐍 Python](./0868-binary-gap.py) |
 | 1022 | **Sum of Root To Leaf Binary Numbers** | O(n) / O(h) | [🐍 Python](./1022-sum-of-root-to-leaft-binary-numbers.py) |
-| 1071 | **Greatest Common Divisor of Strings** | O(n + m) / O(n + m) | [🐍 Python](./1071-greatest-common-divisor-of-strings.py) |
+| 1071 | **Greatest Common Divisor of Strings** | O(n + m) / O(n + m) | [⚙️ C++](./1071-greatest-common-divisor-of-strings.cpp) · [🐍 Python](./1071-greatest-common-divisor-of-strings.py) |
 | 1356 | **Sort Integers by The Number of 1 Bits** | O(n) / O(n) | [🐍 Python](./1356-sort-numbers-by-number-of-1-bits.py) |
 | 1365 | **How Many Numbers Are Smaller Than the Current Number** | O(nlog(n)) / O(n) | [🐍 Python](./1365-smaller-than-current.py) |
 | 1389 | **Create Target Array in the Given Order** | O(n^2) / O(n) | [🐍 Python](./1389-create-target-array-in-given-order.py) |
