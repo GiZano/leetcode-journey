@@ -23,13 +23,13 @@ Focus here is usually on basic data structures, fundamental logic, and getting c
 | 1356 | **Sort Integers by The Number of 1 Bits** | O(n) / O(n) | [🐍 Python](./1356-sort-numbers-by-number-of-1-bits.py) |
 | 1365 | **How Many Numbers Are Smaller Than the Current Number** | O(nlog(n)) / O(n) | [🐍 Python](./1365-smaller-than-current.py) |
 | 1389 | **Create Target Array in the Given Order** | O(n^2) / O(n) | [🐍 Python](./1389-create-target-array-in-given-order.py) |
-| 1431 | **Kids With the Greatest Number of Candies** | O(n) / O(n) | [🐍 Python](./1431-kids-with-candies.py) |
+| 1431 | **Kids With the Greatest Number of Candies** | O(n) / O(n) | [⚙️ C++](./1431-kids-with-candies.cpp) · [🐍 Python](./1431-kids-with-candies.py) |
 | 1470 | **Shuffle the Array** | O(n) / O(n) | [🐍 Python](./1470-shuffle-the-array.py) |
 | 1512 | **Number of Good Pairs** | O(n^2) / O(1) | [🐍 Python](./1512-number-of-good-pairs.py) |
 | 1582 | **Special Positions in a Binary Matrix** | O(N*M) / O(N+M) | [🐍 Python](./1582-specials-positions-in-binary-matrix.py) |
 | 1720 | **Decode XORed Array** | O(n) / O(n) | [🐍 Python](./1720-decode-xored-array.py) |
 | 1758 | **Minimum Changes To Make Alternating Binary String** | O(N) / O(1) | [🐍 Python](./1758-minimum-changes-to-make-alternating-binary-string.py) |
-| 1768 | **Merge Strings Alternately** | O(N + M) / O(1) | [⚙️ C++](./1768-merge-strings-alternately.cpp) · [🐍 Python](./1768-merge-strings-alternately.py) |
+| 1768 | **Merge Strings Alternately** | O(n + m) / O(n + m) | [⚙️ C++](./1768-merge-strings-alternately.cpp) · [🐍 Python](./1768-merge-strings-alternately.py) |
 | 1784 | **Check if Binary String Has at Most One Segment of Ones** | O(N) / O(1) | [🐍 Python](./1784-check-ones-segment.py) |
 | 1920 | **Build Array from Permutation** | O(n) / O(n) | [🐍 Python](./1920-build-array-from-permutation.py) |
 | 1929 | **Concatenation of Array** | O(n) / O(n) | [🐍 Python](./1929-concatenation-of-array.py) |
