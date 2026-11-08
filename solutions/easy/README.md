@@ -10,7 +10,7 @@ Focus here is usually on basic data structures, fundamental logic, and getting c
 |---|-------|---------------------------|-----------|
 | 1 | **Two Sum** | O(n) / O(n) | [🐍 Python](./0001-two-sum.py) |
 | 283 | **Move Zeroes** | O(N) / O(1) | [🐍 Python](./0283-move-zeroes.py) |
-| 345 | **Reverse Vowels of a String** | O(n) / O(n) | [🐍 Python](./0345-reverse-vowels-of-a-string.py) |
+| 345 | **Reverse Vowels of a String** | O(n) / O(n) | [⚙️ C++](./0345-reverse-vowels-of-a-string.cpp) · [🐍 Python](./0345-reverse-vowels-of-a-string.py) |
 | 392 | **Is Subsequence** | O(n) / O(1) | [🐍 Python](./0392-is-subsequence.py) |
 | 605 | **Can Place Flowers** | O(n) / O(n) | [⚙️ C++](./0605-can-place-flowers.cpp) · [🐍 Python](./0605-can-place-flowers.py) |
 | 643 | **Maximum Average Subarray I** | O(n) / O(1) | [🐍 Python](./0643-maximum-average-subarray-I.py) |
@@ -19,7 +19,7 @@ Focus here is usually on basic data structures, fundamental logic, and getting c
 | 762 | **Prime Number of Set Bits in Binary Representation** | O(n) / O(1) | [🐍 Python](./0762-primary-number-of-bits-in-binary.py) |
 | 868 | **Binary Gap** | O(log n) / O(log n) | [🐍 Python](./0868-binary-gap.py) |
 | 1022 | **Sum of Root To Leaf Binary Numbers** | O(n) / O(h) | [🐍 Python](./1022-sum-of-root-to-leaft-binary-numbers.py) |
-| 1071 | **Greatest Common Divisor of Strings** | O(N + M) / O(N + M) | [⚙️ C++](./1071-greatest-common-divisor-of-strings.cpp) · [🐍 Python](./1071-greatest-common-divisor-of-strings.py) |
+| 1071 | **Greatest Common Divisor of Strings** | O(n + m) / O(n + m) | [⚙️ C++](./1071-greatest-common-divisor-of-strings.cpp) · [🐍 Python](./1071-greatest-common-divisor-of-strings.py) |
 | 1356 | **Sort Integers by The Number of 1 Bits** | O(n) / O(n) | [🐍 Python](./1356-sort-numbers-by-number-of-1-bits.py) |
 | 1365 | **How Many Numbers Are Smaller Than the Current Number** | O(nlog(n)) / O(n) | [🐍 Python](./1365-smaller-than-current.py) |
 | 1389 | **Create Target Array in the Given Order** | O(n^2) / O(n) | [🐍 Python](./1389-create-target-array-in-given-order.py) |
