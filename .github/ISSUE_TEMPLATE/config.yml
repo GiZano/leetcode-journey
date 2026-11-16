@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: "⚠️ Looking to track your own solutions?"
+    url: https://github.com/GiZano/leetcode-journey-template/generate
+    about: "Click here to generate your personal repository from this template instead of submitting solutions."
+  - name: "Questions & Community Discussions"
+    url: https://github.com/GiZano/leetcode-journey-template/discussions
+    about: "Ask questions or share ideas about algorithmic patterns and template usage."

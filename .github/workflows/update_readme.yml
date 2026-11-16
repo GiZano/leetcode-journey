@@ -1,0 +1,45 @@
+name: Update README Tables and Stats
+
+on:
+  push:
+    branches:
+      - main
+      - master
+    paths:
+      - 'solutions/**'
+      - 'update_readme.py'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Run Python Script
+        run: python update_readme.py
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+
+          # Track main README and difficulty sub-folder READMEs
+          git add README.md
+          git add solutions/easy/README.md
+          git add solutions/medium/README.md
+          git add solutions/hard/README.md
+
+          # Only commit if changes exist
+          git diff --quiet && git diff --staged --quiet || git commit -m "docs: auto-update stats and sub-folder tables [skip ci]"
+          git push
