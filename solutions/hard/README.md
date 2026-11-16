@@ -1,12 +1,14 @@
 # 🔴 Hard Solutions
 
-This section contains all the LeetCode problems classified as **Hard** that you have solved. 
+This section contains all the LeetCode problems classified as **Hard** that I have solved. 
 Expect heavy dynamic programming, complex graphs, and advanced algorithmic thinking here.
 
 <br>
 
 <!-- TABLE_START -->
-*No problem solved in this category yet.*
+| # | Title | Complexity (Time / Space) | Solutions |
+|---|-------|---------------------------|-----------|
+| 761 | **Special Binary String** | O(n^2) / O(n) | [🐍 Python](./0761-special-binary-string.py) |
 <!-- TABLE_END -->
 
 <br>
