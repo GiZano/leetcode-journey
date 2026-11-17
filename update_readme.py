@@ -17,13 +17,14 @@ LANGUAGE_CONFIG = {
     ".kt":    {"name": "Kotlin",     "icon": "🎯", "order": 9},
     ".cs":    {"name": "C#",         "icon": "🟩", "order": 10},
     ".swift": {"name": "Swift",      "icon": "🐦", "order": 11},
+    ".sql":   {"name": "SQL",        "icon": "🗄️", "order": 12},
 }
 
 def clean_complexity(raw_str):
     """Clean complexity string, removing comments and trailing markers."""
     if not raw_str:
         return "N/A"
-    cleaned = re.split(r'#|//|\*/', raw_str)[0].rstrip('*').strip()
+    cleaned = re.split(r'#|//|\*/|--', raw_str)[0].rstrip('*').strip()
     return cleaned if cleaned else "N/A"
 
 def parse_problems():
